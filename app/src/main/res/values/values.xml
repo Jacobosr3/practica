@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="valores">
+        <item>ESO</item>
+        <item>BACHILLERATO</item>
+        <item>FORMACION PROFESIONAL</item>
+        <item>UNIVERSITARIA</item>
+    </string-array>
+
+</resources>

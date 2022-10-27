@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practica</string>
+    <string name="t1">Nombre:</string>
+    <string name="t2">Edad:</string>
+    <string name="t3">Sexo:</string>
+    <string name="t4">Femenino</string>
+    <string name="t5">Masculino</string>
+    <string name="t6">Profesión:</string>
+    <string name="t7">Hobbies:</string>
+    <string name="t8">Futbol</string>
+    <string name="t9">Baloncesto</string>
+    <string name="t10">Voleibol</string>
+</resources>
